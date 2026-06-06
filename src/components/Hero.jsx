@@ -18,8 +18,8 @@ function Hero() {
         <div className='md:w-1/2 mb-10 md:mb-0'>
           <h1 className='text-3xl md:text-5xl font-bold mb-3'>Hi, I'm<span className='text-purple'> Atulll Yadav</span>
           </h1>
-          <h2 className='text-lg md:text-3xl font-semibold text-gray-200 mb-6 typewriter'>Full Stack Dev | AWS Cloud Engineer</h2>
-          <p className='text-xl text-gray-300 mb-8'>Full Stack Developer and Cloud Engineer with hands-on experience in building scalable,
+          <h2 className='text-lg md:text-3xl font-semibold text-gray-200 mb-6 typewriter'>AWS Engineer | Cloud Associate</h2>
+          <p className='text-xl text-gray-300 mb-8'>Cloud Infrastructure Engineer and full-stack developer with hands-on experience in building scalable,
             high-performance web applications using React, Node.js, and modern databases.
             Skilled in designing, developing, and deploying end-to-end solutions on AWS,
             including cloud infrastructure, APIs, and CI/CD pipelines. <br></br>
